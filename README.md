@@ -9,9 +9,7 @@ Welcome to my GitHub profile! I'm a tech enthusiast with a passion for bringing 
 - **Looking for Collaboration:** Keen on backend development and connecting with C++ wizards. Let's innovate together!
 - **Fun Fact:** Ultimate Frisbee aficionado and a social butterfly. I believe in the power of teamwork both on the field and in tech.
 
-## 💼 Professional Path
 
-With a background in [your background], I've honed my skills in [skills or fields], aiming to contribute to projects that push technological boundaries and enhance user experiences.
 
 ## 🛠️ Skills and Tools
 
