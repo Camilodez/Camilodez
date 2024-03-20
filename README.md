@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a tech enthusiast with a passion for bringing 
 
 ## 💼 Professional Path
 
-With a background in [your background], I've honed my skills in [skills or fields], aiming to contribute to projects that push technological boundaries and enhance user experiences.
+With a background in Engineering Administrative Assistant and Web developer
 
 ## 🛠️ Skills and Tools
 
