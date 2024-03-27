@@ -15,9 +15,9 @@ With a background in Engineering Administrative Assistant and Web developer
 
 ## 🛠️ Skills and Tools
 
-- **Languages:** Python, C++, HTML, CSS
+- **Languages:** Java, C++, HTML, CSS
 - **Frameworks:** Angular
-- **Tools:** Android Studio, Git, [any other tools you use]
+- **Tools:** Android Studio, Git, Oracle SQL developer
 
 ## 🤝 Let's Connect!
 
